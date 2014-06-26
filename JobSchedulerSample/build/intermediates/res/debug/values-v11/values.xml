@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values-v11/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values-v11/template-styles.xml -->
+    <eat-comment />
+
+    <style name="Theme.Base" parent="android:Theme.Holo.Light" />
+
+</resources>

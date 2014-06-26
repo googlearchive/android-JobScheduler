@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values-sw600dp/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_huge</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values-sw600dp/template-styles.xml -->
+    <eat-comment />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:shadowDy">-6.5</item>
+    </style>
+
+</resources>

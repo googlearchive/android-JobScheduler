@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="none_received">#999999</color>
+    <color name="start_received">#00FF00</color>
+    <color name="stop_received">#FF0000</color>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="any">Any</string>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">JobScheduler</string>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="cancel_all_jobs_button_text">Cancel all</string>
+    <string name="charging_caption">Charging:</string>
+    <string name="charging_text">Requires device plugged in.</string>
+    <string name="connectivity">Connectivity:</string>
+    <string name="constraints">Constraints</string>
+    <string name="deadline">Deadline:</string>
+    <string name="defaultparamtext">task params will show up here.</string>
+    <string name="delay">Delay:</string>
+    <string name="finish_job_button_text">taskFinished</string>
+    <string name="idle_caption">Idle:</string>
+    <string name="idle_mode_text">Requires device in idle mode.</string>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="intro_message">
+<![CDATA[
+        
+            
+            Demonstration of the JobScheduler API, which provides an interface for scheduling
+            background tasks when certain tasks apply.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="onstarttask">onStartTask</string>
+    <string name="onstoptask">onStopTask</string>
+    <string name="schedule_job_button_text">Schedule Job</string>
+    <string name="timing">Timing:</string>
+    <string name="unmetered">WiFi</string>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+
+    <style name="Theme.Base" parent="android:Theme.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="Widget" />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>
