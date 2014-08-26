@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- From: file:/code/lmp-samples/developers/samples/android/background/JobScheduler/JobSchedulerSample/src/template/res/values-v21/template-styles.xml -->
-    <eat-comment />
-
-    <style name="Theme.Base" parent="android:Theme.Material.Light" />
-
-</resources>
