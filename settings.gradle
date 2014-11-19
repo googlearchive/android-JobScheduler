@@ -1,4 +1,1 @@
-
-
-
-include 'JobSchedulerSample'
+include 'Application'
