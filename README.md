@@ -1,5 +1,5 @@
 Android JobScheduler Sample
-==============================
+===================================
 
 Demonstration of the JobScheduler API, which provides an interface for scheduling
 background tasks when certain tasks apply.
@@ -7,8 +7,8 @@ background tasks when certain tasks apply.
 Pre-requisites
 --------------
 
-- Android SDK (L Developer Preview)
-- Android Build Tools v20
+- Android SDK v21
+- Android Build Tools v21.1.1
 - Android Support Repository
 
 Getting Started
@@ -41,7 +41,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
